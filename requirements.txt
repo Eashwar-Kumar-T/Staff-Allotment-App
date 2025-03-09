@@ -1,0 +1,7 @@
+pandas==2.1.0
+openpyxl==3.1.2
+reportlab==3.6.12
+tkcalendar==1.6.1
+customtkinter==5.2.0
+fpdf
+Pillow==10.1.0
